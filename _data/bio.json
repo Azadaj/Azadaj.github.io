@@ -6,7 +6,8 @@
     "email": "azad313@hawaii.edu",
     "phone": "",
     "website": "https://azad313.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "summary": "I am studying for my BA in Computer Science at the Department of Information and 
+Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -32,26 +33,25 @@
       },
       {
         "network": "instagram",
-        "username": "molly",
+        "username": "",
         "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Object Oriented Programming",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        
       ]
     },
     {
-      "name": "data mining",
+      "name": "Application development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Server Management",
       "keywords": [
       ]
     }
