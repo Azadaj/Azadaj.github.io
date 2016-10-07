@@ -13,6 +13,7 @@ labels:
 
 ## Semantic UI
 
+
 In all these years I’ve been programming, my focus has always been on object oriented programming. 
 Any time I had to fiddle around with HTML, it was only for a short period or it was for a minuscule assignment in the courses I took. Due to the lack of my exposure to HTML and web development, my perception on these areas in programming was that they 
 were boring and a waste time. I specifically viewed HTML as a time consuming language because I was not introduced
