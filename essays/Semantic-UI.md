@@ -11,7 +11,6 @@ labels:
 
 <img class="ui medium left floated image" src="../images/semantic ui.jpg">
 
-## Semantic UI
 
 
 In all these years I’ve been programming, my focus has always been on object oriented programming. 
