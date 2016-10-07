@@ -11,7 +11,7 @@ labels:
 
 <img class="ui medium left floated image" src="../images/semantic ui.jpg">
 
-##
+## Semantic UI
 
 In all these years I’ve been programming, my focus has always been on object oriented programming. 
 Any time I had to fiddle around with HTML, it was only for a short period or it was for a minuscule assignment in the courses I took. Due to the lack of my exposure to HTML and web development, my perception on these areas in programming was that they 
